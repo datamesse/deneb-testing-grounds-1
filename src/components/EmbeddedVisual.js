@@ -4,7 +4,8 @@ import visual from '../visuals/yourspecification.vl.json'
 export default function EmbeddedVisual() {
     return (
         <>
-            <div id='vis'></div>
+            <h1>This is a test</h1>
+            <div id='vis' class='vega-lite-visual-1'></div>
         </>
     )
 }
