@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/deneb-testing-grounds-1/static/css/main.073c9b0a.css",
-    "main.js": "/deneb-testing-grounds-1/static/js/main.c8fc8fea.js",
+    "main.css": "/deneb-testing-grounds-1/static/css/main.519b7c32.css",
+    "main.js": "/deneb-testing-grounds-1/static/js/main.b20d462c.js",
     "static/js/787.dfc34ac0.chunk.js": "/deneb-testing-grounds-1/static/js/787.dfc34ac0.chunk.js",
-    "static/media/logo.svg": "/deneb-testing-grounds-1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/deneb-testing-grounds-1/index.html",
-    "main.073c9b0a.css.map": "/deneb-testing-grounds-1/static/css/main.073c9b0a.css.map",
-    "main.c8fc8fea.js.map": "/deneb-testing-grounds-1/static/js/main.c8fc8fea.js.map",
+    "main.519b7c32.css.map": "/deneb-testing-grounds-1/static/css/main.519b7c32.css.map",
+    "main.b20d462c.js.map": "/deneb-testing-grounds-1/static/js/main.b20d462c.js.map",
     "787.dfc34ac0.chunk.js.map": "/deneb-testing-grounds-1/static/js/787.dfc34ac0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.c8fc8fea.js"
+    "static/css/main.519b7c32.css",
+    "static/js/main.b20d462c.js"
   ]
 }
