@@ -1,11 +1,11 @@
 import './App.css';
-import EmbeddedVisual from './components/EmbeddedVisual.js';
+import EmbedVisual from './components/EmbedVisual.js';
 
 function App() {
   return (
     <div className="App">
 
-      <EmbeddedVisual />
+      <EmbedVisual />
 
     </div>
   );
